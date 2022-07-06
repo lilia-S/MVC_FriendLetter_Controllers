@@ -19,3 +19,14 @@ C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net
 C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\ref\FriendLetter.dll
 C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.pdb
 C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.genruntimeconfig.cache
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.RazorAssemblyInfo.cache
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.RazorAssemblyInfo.cs
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\bin\Debug\net5.0\FriendLetter.Views.dll
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\bin\Debug\net5.0\FriendLetter.Views.pdb
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.TagHelpers.input.cache
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.TagHelpers.output.cache
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.RazorCoreGenerate.cache
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\Razor\Views\Home\Letter.cshtml.g.cs
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.RazorTargetAssemblyInfo.cs
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.Views.pdb
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.csproj.CopyComplete
