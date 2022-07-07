@@ -30,3 +30,5 @@ C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net
 C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.RazorTargetAssemblyInfo.cs
 C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.Views.pdb
 C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\FriendLetter.csproj.CopyComplete
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\Razor\Views\Home\Form.cshtml.g.cs
+C:\Users\lilia\Epicodus\ASP.NET\FriendLetter.Solution\FriendLetter\obj\Debug\net5.0\Razor\Views\Home\Postcard.cshtml.g.cs
